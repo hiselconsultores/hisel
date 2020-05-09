@@ -581,8 +581,8 @@ ul.dropdown-menu li {
 
 .about-content h4:before {
   position: absolute;
-  content: "\f576";
-  font-family: "Font Awesome 5 Free";
+  /*content: "\f576";
+  font-family: "Font Awesome 5 Free";*/
   font-size: 30px;
   position: absolute;
   top: 8px;
